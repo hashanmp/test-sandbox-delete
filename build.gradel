@@ -1,0 +1,8 @@
+gitProperties {
+	dateFormat = "yyyy-MM-dd HH:mm:ssZ"
+	dateFormatTimeZone = 'Asia/Colombo'
+}
+
+plugins {
+    id 'com.gorylenko.gradle-git-properties' version '1.4.17'
+}
